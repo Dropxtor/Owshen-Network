@@ -8,19 +8,19 @@ Owshen est une plateforme innovante de protection de la vie privée développée
 Avant de démarrer leur testnet, ils organisent un zk-airdrop pour distribuer les tout premiers tokens DIVE aux utilisateurs. Pour participer à cet airdrop, vous aurez besoin d'une adresse Owshen. Voici comment obtenir une adresse Owshen :
 1. Procurez-vous une machine GNU/Linux. (Ubuntu +22.04 de préférence)
 2. Installez `libfuse2` :
-       ```bash
+    ```bash
     sudo apt install libfuse2
     ```
-3. Téléchargez la dernière AppImage du Owshen Wallet :
-```bash
+4. Téléchargez la dernière AppImage du Owshen Wallet :
+    ```bash
     wget https://github.com/OwshenNetwork/owshen/releases/download/v0.1.0/Owshen_v0.1.0_x86_64.AppImage
     ```
 4. Le rendre exécutable :
- ```bash
+    ```bash
     chmod +x Owshen_v0.1.0_x86_64.AppImage
    ```
 5. Initialisez votre portefeuille et ***GARDEZ VOTRE PHRASE MNEMONIQUE DE 12 MOTS DANS UN ENDROIT SÛR***
-   ```bash
+    ```bash
     ./Owshen_v0.1.0_x86_64.AppImage init
     ```
 6. Lancez le Owshen Wallet et accédez à http://127.0.0.1:9000 dans votre navigateur.
