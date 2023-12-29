@@ -27,5 +27,5 @@ Avant de démarrer leur testnet, ils organisent un zk-airdrop pour distribuer le
    ```bash
     ./Owshen_v0.1.0_x86_64.AppImage wallet
     ```
-7.Copiez votre adresse Owshen et mettez-la en commentaire l'article ! https://x.com/OwshenNetwork/status/1739258666199449979
-8.L'Airdrop est ***valable jusqu'au 31 DECEMBRE***. La liste définitive des destinataires de l'airdrop sera annoncée sur leur github ! https://github.com/OwshenNetwork/genesis
+7. Copiez votre adresse Owshen et mettez-la en commentaire l'article ! https://x.com/OwshenNetwork/status/1739258666199449979
+8. L'Airdrop est ***valable jusqu'au 31 DECEMBRE***. La liste définitive des destinataires de l'airdrop sera annoncée sur leur github ! https://github.com/OwshenNetwork/genesis
