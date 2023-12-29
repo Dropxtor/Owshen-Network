@@ -1,5 +1,6 @@
 # Owshen-testnet
-# 🔺  Bermuda Airdrop/Testnet 🔺
+---------------------------------
+# 🐙  Tutoriel Bermuda Airdrop/Testnet par dropxtor
 
 Owshen est une plateforme innovante de protection de la vie privée développée pour les blockchains basées sur les EVM. Vous trouverez ici les instructions pour contribuer au tout premier ***airdrop*** et ***testnet*** d'Owshen, connu sous le nom de Bermuda Testnet.
 
